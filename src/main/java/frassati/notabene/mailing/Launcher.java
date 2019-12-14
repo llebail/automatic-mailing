@@ -14,12 +14,12 @@ public class Launcher {
 	/*
 	 * Path to the configuration file.
 	 */
-	private static final String CONF_FILE_PATH = "resources/conf.txt";
+	private static final String CONF_FILE_PATH = "res/conf.txt";
 	
 	/*
 	 * Path to the users data file.
 	 */
-	private static final String DATAS_FILE_PATH = "resources/users.csv";
+	private static final String DATAS_FILE_PATH = "res/users.csv";
     
     /**
      * Launches the application.

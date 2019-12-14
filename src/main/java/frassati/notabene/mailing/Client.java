@@ -76,6 +76,7 @@ public class Client {
 		            message.setSubject("Consultation des notes");
 		
 		            // Message to be sent.
+		            //TODO Use another way...
 		            message.setText("Bonjour Monsieur, Madame " + user.getName() + ","
 		            		+ "\n"
 		                    + "\nVoici vos identifiants pour le site de notes de Frassati la vie scolaire."
