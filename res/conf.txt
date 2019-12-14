@@ -1,0 +1,4 @@
+SMTP_SERVER;smtp.gmail.com
+USERNAME;frassati.direction@gmail.com
+PASSWORD;pgc0125f
+PORT;465
